@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/softOne/precache-manifest.345555a45273b8729017310e43c967b7.js"
+  "/softOne/precache-manifest.a2860c96f23504a03e4252ca3e0911f8.js"
 );
 
 self.addEventListener('message', (event) => {

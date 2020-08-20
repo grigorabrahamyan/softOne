@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/softOne/static/css/main.e0342e43.chunk.css",
-    "main.js": "/softOne/static/js/main.b4c6263d.chunk.js",
-    "main.js.map": "/softOne/static/js/main.b4c6263d.chunk.js.map",
+    "main.js": "/softOne/static/js/main.72d2b683.chunk.js",
+    "main.js.map": "/softOne/static/js/main.72d2b683.chunk.js.map",
     "runtime-main.js": "/softOne/static/js/runtime-main.7fa0a628.js",
     "runtime-main.js.map": "/softOne/static/js/runtime-main.7fa0a628.js.map",
     "static/js/2.64c47ae8.chunk.js": "/softOne/static/js/2.64c47ae8.chunk.js",
     "static/js/2.64c47ae8.chunk.js.map": "/softOne/static/js/2.64c47ae8.chunk.js.map",
     "index.html": "/softOne/index.html",
-    "precache-manifest.345555a45273b8729017310e43c967b7.js": "/softOne/precache-manifest.345555a45273b8729017310e43c967b7.js",
+    "precache-manifest.a2860c96f23504a03e4252ca3e0911f8.js": "/softOne/precache-manifest.a2860c96f23504a03e4252ca3e0911f8.js",
     "service-worker.js": "/softOne/service-worker.js",
     "static/css/main.e0342e43.chunk.css.map": "/softOne/static/css/main.e0342e43.chunk.css.map",
     "static/js/2.64c47ae8.chunk.js.LICENSE.txt": "/softOne/static/js/2.64c47ae8.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.7fa0a628.js",
     "static/js/2.64c47ae8.chunk.js",
     "static/css/main.e0342e43.chunk.css",
-    "static/js/main.b4c6263d.chunk.js"
+    "static/js/main.72d2b683.chunk.js"
   ]
 }
