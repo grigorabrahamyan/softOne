@@ -1,0 +1,59 @@
+@import './mainslider.css';
+@import './stories.css';
+@import './singlCarusel.css';
+@import './bestSellers.css';
+@import './stors.css';
+.homePage__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.homePage__titleWrapper {
+    position: relative;
+}
+
+.homePage__titleWrapper p {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    font-weight: 600;
+    position: absolute;
+    top: 0;
+    left: -50px;
+    white-space: nowrap;
+}
+
+.homePage__titleImg {
+    width: 90px;
+    height: 63px;
+    position: relative;
+}
+
+.homePage__titleImg img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.homePage__title2 .homePage__titleImg img {
+    top: -25px;
+    left: -70px;
+}
+
+.homePage__title3 .homePage__titleImg img {
+    top: 0;
+    left: 35px;
+}
+
+.homePage__title4 .homePage__titleImg img {
+    top: 0;
+    left: 240px;
+}
+
+.homePage__locations {
+    padding-bottom: 60px;
+}

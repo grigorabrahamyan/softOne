@@ -1,0 +1,49 @@
+@import './header/index.css';
+@import './footer/index.css';
+@import './main/homePage/index.css';
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+input,
+p {
+    margin: 0;
+    padding: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+input {
+    box-sizing: border-box;
+    outline: none;
+}
+
+.mainWrapper {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.largeWrapper {
+    width: 100%;
+}
+
+.wrapper {
+    width: 1660px;
+    margin: 0 auto;
+}

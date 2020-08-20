@@ -1,0 +1,136 @@
+.singlCarusel__wrapper {
+    height: 550px;
+}
+
+.singlCarusel__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.singlCarusel__img {
+    position: relative;
+    flex: 0 0 83%;
+}
+
+.singlCarusel__img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.singlCarusel .owl-carousel {
+    height: 100%;
+    position: relative;
+}
+
+.singlCarusel .owl-stage-outer {
+    height: 100%;
+    overflow: hidden;
+}
+
+.singlCarusel .owl-stage {
+    height: 100%;
+    display: flex;
+}
+
+.singlCarusel .owl-item {
+    height: 100%;
+}
+
+.singlCarusel__itemBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.singlCarusel__itemText p {
+    font-size: 0.875rem;
+    font-weight: 300;
+    line-height: 1.25rem;
+    color: #D8D8D8;
+}
+
+.singlCarusel__itemInfo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.singlCarusel__itemInfoText p {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.singlCarusel__itemInfoBtn {
+    flex: 0 0 37%;
+}
+
+.singlCaruselBtn__btn {
+    border: 1px solid #D71117;
+    border-radius: 18px;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.singlCaruselBtn__btn button {
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: unset;
+    cursor: pointer;
+}
+
+.singlCaruselBtn__innerText {
+    font-size: 1rem;
+    line-height: 1.44rem;
+    color: #D71117;
+    text-align: center;
+}
+
+.singlCarusel .owl-prev,
+.singlCarusel .owl-next {
+    position: absolute;
+    top: 0;
+}
+
+.singlCarusel .owl-prev {
+    left: 0;
+}
+
+.singlCarusel .owl-next {
+    right: 0;
+}
+
+.singlCarusel .owl-prev::after {
+    content: '';
+    position: absolute;
+    top: 190px;
+    left: 0;
+    width: 76px;
+    height: 76px;
+    background-color: #fff;
+    background-image: url(../../../img/arrow_left.png);
+    background-position: center;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.singlCarusel .owl-next::after {
+    content: '';
+    position: absolute;
+    top: 190px;
+    right: 0;
+    width: 76px;
+    height: 76px;
+    background-color: #fff;
+    background-image: url(../../../img/arrow_right.png);
+    background-position: center;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
