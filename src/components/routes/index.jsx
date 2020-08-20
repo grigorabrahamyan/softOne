@@ -6,7 +6,7 @@ import HomePage from '../main/homePage';
 function Routes() {
   return (
     <Switch>
-      <Route exact path='/' >
+      <Route exact path='/softOne' >
         <HomePage />
       </Route>
     </Switch>
