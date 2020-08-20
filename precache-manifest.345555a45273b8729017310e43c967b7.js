@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1753828032c9c5f60bad3aeb702d2dc",
+    "revision": "28b63b15b25592c3aed53e1dee2f2339",
     "url": "/softOne/index.html"
   },
   {
-    "revision": "d16bda272649ac273ab8",
+    "revision": "b488ab5f4bb829fdc07b",
     "url": "/softOne/static/css/main.e0342e43.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/softOne/static/js/2.64c47ae8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d16bda272649ac273ab8",
-    "url": "/softOne/static/js/main.a1599c2b.chunk.js"
+    "revision": "b488ab5f4bb829fdc07b",
+    "url": "/softOne/static/js/main.b4c6263d.chunk.js"
   },
   {
     "revision": "320c9f1d5b176bd25cc4",
